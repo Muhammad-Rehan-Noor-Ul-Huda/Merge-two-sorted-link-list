@@ -91,13 +91,7 @@ list2: 5 → 7 → NULL
 
 ---
 
-## 📁 Repository Info
 
-**Folder structure:**
-LeetCode-Solutions/
-└── Merge_Two_Sorted_Lists/
-├── mergeTwoLists_manual_pointer.cpp
-└── README.md
 
 
 ---
